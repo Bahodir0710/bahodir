@@ -14,7 +14,7 @@
 
         input[type="file"] {
             margin: 20px 0;
-   
+            
         }
 
         #image-preview {
